@@ -2,23 +2,7 @@
 
 ## Description
 
-I built this project to practice refactoring code. I learned how to replace non-semantic elements with semantic HTML elements and find out how to consolidate repeated code. 
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+I built this project to practice refactoring code. The given code was unorganized and spread out. I learned how to replace non-semantic elements with semantic HTML elements and find out how to consolidate repeated code. 
 
 ## Installation
 
@@ -26,11 +10,7 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+To use this website, click on the links in the navigation bar for it to drop down to its section. The function of the website did not change because of refactoring. But if you open the code in VS code or GitHub, you will see that it is more organized and easy to read.
 
 ## Credits
 
